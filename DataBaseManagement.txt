@@ -32,4 +32,5 @@ select count(FirstName) from addressbook where type = 'Family' ;
 
 uc 11 -> to add in both family & friend
 insert into addressbook value ('anzar','shaikh', 'Family','makaranpur', 'kannad','maharashtra',431103,9503849559,'anzarshaikh373@gmail.com');
+
 insert into addressbook value ('anzar','shaikh', 'Frined','makaranpur', 'kannad','maharashtra',431103,9503849559,'anzarshaikh373@gmail.com');
